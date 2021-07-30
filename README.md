@@ -40,30 +40,33 @@ The project is divided into 5 phases:
     2.Phase 2
     3.Phase 3
     4.Phase 4
-    5.Phase 5
     
 Phase 1
 
- Evaluation of idea.
- Development of Front-end for Web app.
+   Evaluation of idea.
  
 Phase 2
 
- Database Integration.
- Analytics Integration.
+   Front-end development of web app.
  
 Phase 3
 
- Redeem Coins on Leaderboard.
- Social-media sharing.
+   Database Integration.
+   Analytics Integration.
  
 Phase 4
 
- AI integration.
+   Redeem Coins on Leaderboard.
+   Social-media sharing.
+ 
+Phase 4
 
-Phase 5
+   Integrated to IBM Watson Service.
+   Implementation of Mobile app.
 
-Implementation of Mobile App.
+![image](https://user-images.githubusercontent.com/59041032/127615878-893514f0-0dbf-4eda-b377-51d7e427e3c4.png)
+
+
  
 # Live Demo
 
